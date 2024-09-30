@@ -1,0 +1,13 @@
+.steps_label{
+    margin:30px 0;
+}
+.step_1_label, .step_2_label, .step_3_label, .review_label{
+    color: gray;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.active{
+    color:blue;
+    font-weight: 800;
+}
